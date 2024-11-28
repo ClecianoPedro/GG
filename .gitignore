@@ -1,0 +1,26 @@
+# Ignorar diretórios __pycache__
+__pycache__/
+
+# Ignorar arquivos de compilação do Python
+*.pyc
+*.pyo
+
+# Ignorar ambientes virtuais
+venv/
+env/
+.venv
+.python-version
+
+# Ignorar arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração do sistema
+.DS_Store
+# Ignorar arquivos pdf
+static/upload/*.pdf
+# Ignorar arquivos jpg
+static/upload/*.jpg

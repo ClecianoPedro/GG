@@ -1,0 +1,25 @@
+Requisitos Concluídos
+
+3.1 [RF001] Realizar cadastro - Backend
+3.2 [RF002] Realizar login - Backend
+3.3 [RF003] Alterar dados do cadastro - Backend
+3.4 [RF004] Recuperar acesso - Backend
+3.6 [RF006] Exclusão de conta - Backend
+3.7 [RF007] Adição de garantia - Backend
+3.8 [RF008] Adição de nome à garantia - Backend
+3.9 [RF009] Edição de garantia - Backend
+3.10 [RF010] Exclusão de garantia - Backend
+3.16 [RF016] Adicionar loja - Backend
+3.17 [RF017] Editar loja - Backend
+
+
+falta:
+
+3.5 [RF005] Realizar logout - Frontend
+3.11 [RF011] Download garantia - Frontend
+3.12 [RF012] Notificação de vencimento da garantia - Frontend
+3.13 [RF013] Histórico de solicitações de reparo - Backend
+3.14 [RF014] Filtro de garantias ativas/inativas - Backend
+3.15 [RF015] Busca exata ou parcial - Backend
+3.18 [RF018] Buscar nome da loja por CNPJ via API
+
