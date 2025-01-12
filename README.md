@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <b>GG é uma proposta de aplicação desenvolvida por alunos da Softex Pernambuco, do curso Formação Acelerada em Programação na trilha de Back-end com Python. Tem como finalidade oferecer um sistema de Gestão de Garantias. O sistema deve permitir basicamente aos usuários criar conta, fazer login, recuperar a senha por envio de código ao email cadastrado, alterar a senha cadastrada previamente, fazer upload de documentos, visualizar todas as suas garantias salvas no sistema e também permitir exclui-las. </b>
+    <b>GG é uma proposta de aplicação desenvolvida por alunos da Softex Pernambuco, do curso Formação Acelerada em Programação na trilha de Backend com Python. Tem como finalidade oferecer um sistema de Gestão de Garantias. O sistema deve permitir basicamente aos usuários criar conta, fazer login, recuperar a senha por envio de código ao email cadastrado, alterar a senha cadastrada previamente, fazer upload de documentos, visualizar todas as suas garantias salvas no sistema e também permitir exclui-las. </b>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
@@ -16,6 +16,10 @@
 - Python
 - Flask
 - PostgreSQL
+
+<h2 id="documentation">📖 Documentation</h2>
+
+- [Documentação do projeto](https://docs.google.com/document/d/1gf9Zn8sOwtrccqKjaQtCxWS8vb8HUTeg/edit?usp=sharing&ouid=108003084150608026515&rtpof=true&sd=true)
 
 <h2 id="started">🚀 Getting started</h2>
 
